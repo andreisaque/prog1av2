@@ -9,7 +9,7 @@ int main()
      char nome[30][30];  
      char auxiliar1[30];
      
-     printf("Olá, meu nome é André Isaque e este programa pode ser visto no seguinte endereço do github: https://https://github.com/andreisaque/prog1av2/prog1_av2_1.c\n"); 
+     printf("Olá, meu nome é André Isaque e este programa pode ser visto no seguinte endereço do github: https://github.com/andreisaque/prog1av2/blob/master/prog1_av2_1.c\n"); 
  
  
  for(i=0;i<=29;i++) 
